@@ -30,7 +30,7 @@ nav:
  - name: "Personal"
    link: "/Xinyu-s-Personal-Website/personal/"
  - name: "CV"
-   link: "/Xinyu-s-Personal-Website/assets/cv.pdf"
+   link: "/Xinyu-s-Personal-Website/assets/Zhang_Xinyu_CV_website.pdf"
 
 exclude:
  - README.md

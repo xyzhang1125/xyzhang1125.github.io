@@ -9,7 +9,7 @@ title: Xinyu Zhang
 <img class="profile-photo" src="{{ '/assets/img/photo.jpeg' | relative_url }}" alt="Photo of Xinyu Zhang">
 <p class="profile-links">
 <a href="mailto:xinyu.zhang1@kellogg.northwestern.edu">Email</a> /
-<a href="{{ '/assets/cv.pdf' | relative_url }}" target="_blank">CV</a> /
+<a href="{{ '/assets/Zhang_Xinyu_CV_website.pdf' | relative_url }}" target="_blank">CV</a> /
 <a href="https://www.linkedin.com/in/xinyu-zhang-030048241" target="_blank">LinkedIn</a> /
 <a href="https://github.com/xyzhang1125" target="_blank">GitHub</a>
 </p>
