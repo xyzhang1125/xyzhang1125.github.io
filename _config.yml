@@ -2,12 +2,12 @@ title: Xinyu Zhang
 author: Xinyu Zhang
 description: "Xinyu Zhang's personal website: economics research, education, and teaching."
 url: "https://xyzhang1125.github.io"
-baseurl: "/Xinyu-s-Personal-Website"
+baseurl: ""
 
 markdown: kramdown
 
 favicon: yes
-favicon_location: "/Xinyu-s-Personal-Website/assets/img/favicon.ico"
+favicon_location: "/assets/img/favicon.ico"
 
 footer: yes
 footer_url: "https://github.com/ankitsultana/researcher"
@@ -20,17 +20,17 @@ sass:
 # Links must include the baseurl, because the layout does not add it.
 nav:
  - name: "About"
-   link: "/Xinyu-s-Personal-Website/#about"
+   link: "/#about"
  - name: "Research"
-   link: "/Xinyu-s-Personal-Website/#research"
+   link: "/#research"
  - name: "Data"
-   link: "/Xinyu-s-Personal-Website/#data"
+   link: "/#data"
  - name: "Teaching"
-   link: "/Xinyu-s-Personal-Website/#teaching"
+   link: "/#teaching"
  - name: "Personal"
-   link: "/Xinyu-s-Personal-Website/personal/"
+   link: "/personal/"
  - name: "CV"
-   link: "/Xinyu-s-Personal-Website/assets/Zhang_Xinyu_CV_website.pdf"
+   link: "/assets/Zhang_Xinyu_CV_website.pdf"
 
 exclude:
  - README.md
